@@ -4,3 +4,4 @@ httpx
 pillow
 pydantic
 openai
+python-multipart
